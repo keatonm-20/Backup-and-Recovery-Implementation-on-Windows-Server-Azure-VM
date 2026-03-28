@@ -7,7 +7,6 @@
 
 ---
 ---
----
 
 ### Scheduling Backup
 **Here, I am scheduling a backup for 9pm every night**<br><br>
@@ -25,7 +24,6 @@
 
 ---
 ---
----
 
 ### Doing quick one time backup<br><br>
 ![Dashboard Screenshot](images/img16.png)
@@ -37,14 +35,12 @@
 
 ---
 ---
----
 
 ### Erasing files
 **I erased the files to test out if the files will recover with backup**<br><br>
 ![Dashboard Screenshot](images/img22.png)
 ![Dashboard Screenshot](images/img23.png)<br><br><br>
 
----
 ---
 ---
 
