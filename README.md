@@ -1,4 +1,12 @@
-# Backup and Recovery Implementation on Windows Server (Azure VM)
+# Backup and Recovery Implementation on Windows Server
+
+## 🚀 Skills Demonstrated (Overview)
+- Configuring Windows Server Backup for files, folders, and system state
+- Scheduling and managing backup jobs
+- Restoring files, folders, and system state from backup
+- Testing and validating backup and recovery processes
+
+---
 
 ### Installing Windows Server Backup<br><br>
 ![Dashboard Screenshot](images/img1.png)
